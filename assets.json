@@ -1,0 +1,5 @@
+[
+	{"name" : "block", "type" : "image"},
+	{"name" : "bar", "type" : "image"},
+	{"name" : "ball", "type" : "image"}
+]
